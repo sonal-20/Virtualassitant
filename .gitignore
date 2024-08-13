@@ -1,1 +1,6 @@
+# Example content for .gitignore
 myenv/
+__pycache__/
+*.pyc
+.env
+
